@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html{
+    font-size: 62.5%;/* 1 rem = 10px (100% = 16px) */
+}
+
+body{
+    font-size: 1.4rem;/* soit 14px*/
+    font-family: arial;
+    color: white;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(0.25turn,#E45DBE,#6E569A,#35A278,#F5A03D,#C4324F);
+    /* background-color: #3b29a1; */
+}
+
+.nupes{
+    font-size: 20rem;
+}
