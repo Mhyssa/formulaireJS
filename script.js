@@ -35,3 +35,5 @@
 // var myDate = new Date() ;   // Date du jour
 // var myDate = new Date(1655390000000) ;  // Date depuis le 1er janvier 1970
 // console.log(myDate);
+
+
